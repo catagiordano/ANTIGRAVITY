@@ -1,3 +1,4 @@
+# Leido
 # Explicación para principiantes: ejercicio "Analizar código" (U9)
 
 > Basado en el documento `ANALIZAR CODIGO - RESUELTO.docx` (6 preguntas) y en la

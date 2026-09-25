@@ -1,3 +1,4 @@
+# Leido
 # U9 — Proyecto entregable + Ejercicio "Analizar código": explicación completa
 
 Dos materiales, fuertemente relacionados entre sí: el proyecto `U9EjercicioEntregable` es la app real (patrón repositorio genérico + repositorio específico + LINQ), y `ANALIZAR_CODIGO` es un ejercicio de 6 preguntas de interpretación/corrección de código **sobre ese mismo dominio** (a veces mostrando versiones "con bug" de código que en el proyecto real ya está corregido). Por eso conviene leerlos juntos: cada respuesta del ejercicio se puede **verificar contra el código real** del entregable.
